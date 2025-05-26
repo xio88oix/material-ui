@@ -1,7 +1,14 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Demo Material UI Components
 ## Getting Started
+
+NOTE: pushed to github
+- created a new repository in github: material-ui
+- ran the following afterwards:
+git remote add origin https://github.com/xio88oix/material-ui.git
+git branch -M main
+git push -u origin main
+- end NOTE
 
 First, run the development server:
 
