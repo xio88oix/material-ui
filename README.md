@@ -3,11 +3,20 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 NOTE: pushed to github
+
 - created a new repository in github: material-ui
 - ran the following afterwards:
-git remote add origin https://github.com/xio88oix/material-ui.git
-git branch -M main
-git push -u origin main
+  git remote add origin https://github.com/xio88oix/material-ui.git
+  git branch -M main
+  git push -u origin main
+- end NOTE
+  NOTE: Packages installed:
+  npm install @mui/material @emotion/react @emotion/styled
+
+- end NOTE
+- NOTE:
+  theme - default values, see:
+  https://mui.com/material-ui/customization/default-theme/
 - end NOTE
 
 First, run the development server:
